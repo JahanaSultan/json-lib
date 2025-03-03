@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "az": "Bakı Dövlət Universiteti",
+    "en": "Baku State University",
+    "ru": "Бакинский государственный университет",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Baku_State_University_Dark_Logo.png/150px-Baku_State_University_Dark_Logo.png"
+  },
+  {
+    "id": 2,
+    "az": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+    "en": "Azerbaijan State Oil and Industry University",
+    "ru": "Азербайджанский государственный университет нефти и промышленности",
+    "logo": "https://seeklogo.com/images/A/adnsu-logo-D3A5F3CA6A-seeklogo.com.png"
+  },
+  {
+    "id": 3,
+    "az": "Bakı Musiqi Akademiyası",
+    "en": "Baku Music Academy",
+    "ru": "Бакинская музыкальная академия"
+  },
+  {
+    "id": 4,
+    "az": "Azərbaycan Dövlət Pedaqoji Universiteti",
+    "en": "Azerbaijan State Pedagogical University",
+    "ru": "Азербайджанский государственный педагогический университет"
+  },
+  {
+    "id": 5,
+    "az": "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti",
+    "en": "Azerbaijan State University of Culture and Arts",
+    "ru": "Азербайджанский государственный университет культуры и искусств"
+  },
+  {
+    "id": 6,
+    "az": "Azərbaycan Dövlət Aqrar Universiteti",
+    "en": "Azerbaijan State Agricultural University",
+    "ru": "Азербайджанский государственный аграрный университет"
+  },
+  {
+    "id": 7,
+    "az": "Azərbaycan Tibb Universiteti",
+    "en": "Azerbaijan Medical University",
+    "ru": "Азербайджанский медицинский университет"
+  },
+  {
+    "id": 8,
+    "az": "Azərbaycan Dövlət İqtisad Universiteti",
+    "en": "Azerbaijan State University of Economics",
+    "ru": "Азербайджанский государственный экономический университет"
+  },
+  {
+    "id": 9,
+    "az": "Azərbaycan Dövlət Bədən Tərbiyəsi və İdman Akademiyası",
+    "en": "Azerbaijan State Academy of Physical Education and Sport",
+    "ru": "Азербайджанская государственная академия физической культуры и спорта"
+  },
+  {
+    "id": 10,
+    "az": "Gəncə Dövlət Universiteti",
+    "en": "Ganja State University",
+    "ru": "Гянджинский государственный университет"
+  },
+  {
+    "id": 11,
+    "az": "Bakı Slavyan Universiteti",
+    "en": "Baku Slavic University",
+    "ru": "Бакинский славянский университет"
+  },
+  {
+    "id": 12,
+    "az": "Azərbaycan Texniki Universiteti",
+    "en": "Azerbaijan Technical University",
+    "ru": "Азербайджанский технический университет"
+  },
+  {
+    "id": 13,
+    "az": "Sumqayıt Dövlət Universiteti",
+    "en": "Sumgayit State University",
+    "ru": "Сумгайытский государственный университет"
+  },
+  {
+    "id": 14,
+    "az": "Naxçıvan Dövlət Universiteti",
+    "en": "Nakhchivan State University",
+    "ru": "Нахичеванский государственный университет"
+  },
+  {
+    "id": 15,
+    "az": "Azərbaycan Dillər Universiteti",
+    "en": "Azerbaijan University of Languages",
+    "ru": "Азербайджанский университет языков"
+  },
+  {
+    "id": 16,
+    "az": "Azərbaycan Memarlıq və İnşaat Universiteti",
+    "en": "Azerbaijan University of Architecture and Construction",
+    "ru": "Азербайджанский университет архитектуры и строительства"
+  },
+  {
+    "id": 17,
+    "az": "Azərbaycan Texnologiya Universiteti",
+    "en": "Azerbaijan Technological University",
+    "ru": "Азербайджанский технологический университет"
+  },
+  {
+    "id": 18,
+    "az": "Lənkəran Dövlət Universiteti",
+    "en": "Lankaran State University",
+    "ru": "Ленкоранский государственный университет"
+  },
+  {
+    "id": 19,
+    "az": "Milli Aviasiya Akademiyası",
+    "en": "National Aviation Academy",
+    "ru": "Национальная авиационная академия"
+  },
+  {
+    "id": 20,
+    "az": "Azərbaycan Dövlət Dəniz Akademiyası",
+    "en": "Azerbaijan State Maritime Academy",
+    "ru": "Азербайджанская государственная морская академия"
+  },
+  {
+    "id": 21,
+    "az": "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası",
+    "en": "Academy of Public Administration under the President of the Republic of Azerbaijan",
+    "ru": "Академия государственного управления при Президенте Азербайджанской Республики"
+  },
+  {
+    "id": 22,
+    "az": "Azərbaycan Dövlət Rəssamlıq Akademiyası",
+    "en": "Azerbaijan State Academy of Fine Arts",
+    "ru": "Азербайджанская государственная академия художеств"
+  },
+  {
+    "id": 23,
+    "az": "Azərbaycan Milli Konservatoriyası",
+    "en": "Azerbaijan National Conservatory",
+    "ru": "Азербайджанская национальная консерватория"
+  },
+  {
+    "id": 24,
+    "az": "Qərbi Kaspi Universiteti",
+    "en": "Western Caspian University",
+    "ru": "Западно-Каспийский университет"
+  },
+  {
+    "id": 25,
+    "az": "Azərbaycan Universiteti",
+    "en": "Azerbaijan University",
+    "ru": "Азербайджанский университет"
+  },
+  {
+    "id": 26,
+    "az": "Xəzər Universiteti",
+    "en": "Khazar University",
+    "ru": "Университет Хазар"
+  },
+  {
+    "id": 27,
+    "az": "Odlar Yurdu Universiteti",
+    "en": "Odlar Yurdu University",
+    "ru": "Университет Одлар Юрду"
+  },
+  {
+    "id": 28,
+    "az": "Bakı Avrasiya Universiteti",
+    "en": "Baku Eurasian University",
+    "ru": "Бакинский евразийский университет"
+  },
+  {
+    "id": 29,
+    "az": "Bakı Ali Neft Məktəbi",
+    "en": "Baku Higher Oil School",
+    "ru": "Бакинская высшая нефтяная школа"
+  },
+  {
+    "id": 30,
+    "az": "Azərbaycan-Fransız Universiteti",
+    "en": "Azerbaijan-French University",
+    "ru": "Азербайджано-Французский университет"
+  },
+  {
+    "id": 31,
+    "az": "Azərbaycan Kooperasiya Universiteti",
+    "en": "Azerbaijan Cooperation University",
+    "ru": "Азербайджанский кооперативный университет"
+  },
+  {
+    "id": 32,
+    "az": "Azərbaycan Turizm və Menecment Universiteti",
+    "en": "Azerbaijan Tourism and Management University",
+    "ru": "Азербайджанский университет туризма и менеджмента"
+  },
+  {
+    "id": 33,
+    "az": "Bakı Mühəndislik Universiteti",
+    "en": "Baku Engineering University",
+    "ru": "Бакинский инженерный университет"
+  },
+  {
+    "id": 34,
+    "az": "Naxçıvan Universiteti",
+    "en": "Nakhchivan University",
+    "ru": "Нахичеванский университет"
+  },
+  {
+    "id": 35,
+    "az": "Gəncə Avropa Universiteti",
+    "en": "Ganja European University",
+    "ru": "Гянджинский Европейский университет"
+  },
+  {
+    "id": 36,
+    "az": "Azərbaycan İlahiyyat İnstitutu",
+    "en": "Azerbaijan Institute of Theology",
+    "ru": "Азербайджанский институт теологии"
+  },
+  {
+    "id": 37,
+    "az": "Azərbaycan Dövlət Xarici Dillər Universiteti",
+    "en": "Azerbaijan State University of Foreign Languages",
+    "ru": "Азербайджанский государственный университет иностранных языков"
+  },
+  {
+    "id": 38,
+    "az": "Bakı Qızlar Universiteti",
+    "en": "Baku Girls University",
+    "ru": "Бакинский девичий университет"
+  },
+  {
+    "id": 39,
+    "az": "Bakı Biznes Universiteti",
+    "en": "Baku Business University",
+    "ru": "Бакинский бизнес-университет"
+  },
+  {
+    "id": 40,
+    "az": "Naxçıvan Müəllimlər İnstitutu",
+    "en": "Nakhchivan Teachers Institute",
+    "ru": "Нахичеванский институт учителей"
+  },
+  {
+    "id": 41,
+    "az": "Qarabağ Universiteti",
+    "en": "Karabakh University",
+    "ru": "Университет Карабаха"
+  },
+  {
+    "id": 42,
+    "az": "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin Akademiyası",
+    "en": "Academy of the State Customs Committee of the Republic of Azerbaijan",
+    "ru": "Академия Государственного таможенного комитета Республики Азербайджан"
+  },
+  {
+    "id": 43,
+    "az": "Azərbaycan Respublikası Daxili İşlər Nazirliyi Polis Akademiyası",
+    "en": "Police Academy of the Ministry of Internal Affairs of the Republic of Azerbaijan",
+    "ru": "Полицейская академия Министерства внутренних дел Республики Азербайджан"
+  },
+  {
+    "id": 44,
+    "az": "Azərbaycan Respublikası Dövlət Təhlükəsizliyi Xidmətinin Heydər Əliyev adına Akademiyası",
+    "en": "Heydar Aliyev Academy of the State Security Service of the Republic of Azerbaijan",
+    "ru": "Академия Государственной службы безопасности Республики Азербайджан имени Гейдара Алиева"
+  },
+  {
+    "id": 45,
+    "az": "Azərbaycan Respublikası Ədliyyə Nazirliyinin Ədliyyə Akademiyası",
+    "en": "Academy of the Ministry of Justice of the Republic of Azerbaijan",
+    "ru": "Академия Министерства юстиции Республики Азербайджан"
+  },
+  {
+    "id": 46,
+    "az": "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin Akademiyası",
+    "en": "Academy of the Ministry of Emergency Situations of the Republic of Azerbaijan",
+    "ru": "Академия Министерства по чрезвычайным ситуациям Республики Азербайджан"
+  },
+  {
+    "id": 47,
+    "az": "Milli Müdafiə Universiteti",
+    "en": "National Defense University",
+    "ru": "Национальный университет обороны"
+  }
+]
