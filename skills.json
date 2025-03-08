@@ -1,0 +1,1017 @@
+[
+    {
+        "en": "Domain-Driven Design",
+        "az": "Domen Yönümlü Dizayn",
+        "ru": "Предметно-ориентированное проектирование"
+    },
+    {
+        "en": "Budgeting",
+        "az": "Büdcələmə",
+        "ru": "Бюджетирование"
+    },
+    {
+        "en": "Design Patterns",
+        "az": "Dizayn Nümunələri",
+        "ru": "Шаблоны проектирования"
+    },
+    {
+        "en": "Employee retention",
+        "az": "İşçi saxlanılması",
+        "ru": "Удержание сотрудников"
+    },
+    {
+        "en": "Digital Marketing",
+        "az": "Rəqəmsal Marketinq",
+        "ru": "Цифровой маркетинг"
+    },
+    {
+        "en": "Agile Methodologies",
+        "az": "Çevik Metodologiyalar",
+        "ru": "Гибкие методологии"
+    },
+    {
+        "en": "UI/UX Design",
+        "az": "İstifadəçi İnterfeysi/Təcrübəsi Dizaynı",
+        "ru": "Дизайн пользовательского интерфейса/опыта"
+    },
+    {
+        "en": "Emotional resilience",
+        "az": "Emosional Dayanıqlıq",
+        "ru": "Эмоциональная стойкость"
+    },
+    {
+        "en": "Self-awareness",
+        "az": "Özünü Tanıma",
+        "ru": "Самосознание"
+    },
+    {
+        "en": "Bioinformatics",
+        "az": "Bioinformatika",
+        "ru": "Биоинформатика"
+    },
+    {
+        "en": "Remote Sensing",
+        "az": "Məsafədən Zondlama",
+        "ru": "Дистанционное зондирование"
+    },
+    {
+        "en": "Resource allocation",
+        "az": "Resursların təyin edilməsi",
+        "ru": "Распределение ресурсов"
+    },
+    {
+        "en": "Building rapport",
+        "az": "Münasibət Qurmaq",
+        "ru": "Построение взаимопонимания"
+    },
+    {
+        "en": "Networking",
+        "az": "Şəbəkələşmə",
+        "ru": "Налаживание связей"
+    },
+    {
+        "en": "Time management",
+        "az": "Vaxt idarəetməsi",
+        "ru": "Управление временем"
+    },
+    {
+        "en": "Configuration Management",
+        "az": "Konfiqurasiya İdarəetməsi",
+        "ru": "Управление конфигурацией"
+    },
+    {
+        "en": "Patience",
+        "az": "Səbir",
+        "ru": "Терпение"
+    },
+    {
+        "en": "Facilitation",
+        "az": "Rəhbərlik etmə",
+        "ru": "Фасилитация"
+    },
+    {
+        "en": "Compiler Design",
+        "az": "Kompilyator Dizaynı",
+        "ru": "Разработка компиляторов"
+    },
+    {
+        "en": "Employee health and safety",
+        "az": "İşçi sağlamlığı və təhlükəsizlik",
+        "ru": "Здоровье и безопасность сотрудников"
+    },
+    {
+        "en": "Decryption",
+        "az": "Dekriptasiya",
+        "ru": "Дешифрование"
+    },
+    {
+        "en": "Virtual Reality",
+        "az": "Virtual Reallıq",
+        "ru": "Виртуальная реальность"
+    },
+    {
+        "en": "Negotiation",
+        "az": "Danışıqlar",
+        "ru": "Переговоры"
+    },
+    {
+        "en": "Requirements Engineering",
+        "az": "Tələblər Mühəndisliyi",
+        "ru": "Инженерия требований"
+    },
+    {
+        "en": "Employee engagement and retention",
+        "az": "İşçi qatılımı və saxlanılması",
+        "ru": "Привлечение и удержание сотрудников"
+    },
+    {
+        "en": "Predictive Analytics",
+        "az": "Proqnozlaşdırıcı Analitika",
+        "ru": "Прогнозная аналитика"
+    },
+    {
+        "en": "Mobile App Development",
+        "az": "Mobil Tətbiq Tərtibatı",
+        "ru": "Разработка мобильных приложений"
+    },
+    {
+        "en": "Tolerance",
+        "az": "Dözümlülük",
+        "ru": "Толерантность"
+    },
+    {
+        "en": "Concurrency",
+        "az": "Paralellik",
+        "ru": "Параллелизм"
+    },
+    {
+        "en": "Diplomacy",
+        "az": "Diplomatiya",
+        "ru": "Дипломатичность"
+    },
+    {
+        "en": "Quantum Computing",
+        "az": "Kvant Hesablama",
+        "ru": "Квантовые вычисления"
+    },
+    {
+        "en": "Single Page Applications",
+        "az": "Tək Səhifəli Tətbiqlər",
+        "ru": "Одностраничные приложения"
+    },
+    {
+        "en": "Sales management",
+        "az": "Satış idarəetməsi",
+        "ru": "Управление продажами"
+    },
+    {
+        "en": "Robotic Process Automation",
+        "az": "Robotik Proses Avtomatlaşdırması",
+        "ru": "Роботизированная автоматизация процессов"
+    },
+    {
+        "en": "Leadership",
+        "az": "Liderlik",
+        "ru": "Лидерство"
+    },
+    {
+        "en": "Conflict resolution",
+        "az": "Münaqişə Həlli",
+        "ru": "Разрешение конфликтов"
+    },
+    {
+        "en": "Interpersonal skills",
+        "az": "İnterpersonal Bacarıqlar",
+        "ru": "Межличностные навыки"
+    },
+    {
+        "en": "ETL Processes",
+        "az": "ETL Prosesləri",
+        "ru": "ETL-процессы"
+    },
+    {
+        "en": "Test-Driven Development",
+        "az": "Test Yönümlü Tərtibat",
+        "ru": "Разработка через тестирование"
+    },
+    {
+        "en": "Cross-Platform Development",
+        "az": "Çarpaz Platform Tərtibatı",
+        "ru": "Кроссплатформенная разработка"
+    },
+    {
+        "en": "Operating Systems",
+        "az": "Əməliyyat Sistemləri",
+        "ru": "Операционные системы"
+    },
+    {
+        "en": "Attention to detail",
+        "az": "Detallara diqqət",
+        "ru": "Внимание к деталям"
+    },
+    {
+        "en": "FPGA Programming",
+        "az": "FPGA Proqramlaşdırma",
+        "ru": "Программирование FPGA"
+    },
+    {
+        "en": "Continuous Deployment",
+        "az": "Davamlı Yerləşdirmə",
+        "ru": "Непрерывное развертывание"
+    },
+    {
+        "en": "Computer Graphics",
+        "az": "Kompüter Qrafikası",
+        "ru": "Компьютерная графика"
+    },
+    {
+        "en": "Time management",
+        "az": "Vaxtın idarə edilməsi",
+        "ru": "Управление временем"
+    },
+    {
+        "en": "Functional Programming",
+        "az": "Funksional Proqramlaşdırma",
+        "ru": "Функциональное программирование"
+    },
+    {
+        "en": "Computational Biology",
+        "az": "Hesablama Biologiyası",
+        "ru": "Вычислительная биология"
+    },
+    {
+        "en": "Supply chain management",
+        "az": "Təchizat zəncirinin idarə edilməsi",
+        "ru": "Управление цепочкой поставок"
+    },
+    {
+        "en": "Infrastructure as Code",
+        "az": "Kod kimi İnfrastruktur",
+        "ru": "Инфраструктура как код"
+    },
+    {
+        "en": "Game Development",
+        "az": "Oyun Tərtibatı",
+        "ru": "Разработка игр"
+    },
+    {
+        "en": "Profiling",
+        "az": "Profil Çıxarma",
+        "ru": "Профилирование"
+    },
+    {
+        "en": "High Availability Systems",
+        "az": "Yüksək Əlçatanlıq Sistemləri",
+        "ru": "Системы высокой доступности"
+    },
+    {
+        "en": "Training and development",
+        "az": "Təlim və inkişaf",
+        "ru": "Обучение и развитие"
+    },
+    {
+        "en": "Work-life balance",
+        "az": "İş-həyat balansı",
+        "ru": "Баланс работы и личной жизни"
+    },
+    {
+        "en": "Project Management",
+        "az": "Layihə İdarəetməsi",
+        "ru": "Управление проектами"
+    },
+    {
+        "en": "Natural Language Processing",
+        "az": "Təbii Dil Emalı",
+        "ru": "Обработка естественного языка"
+    },
+    {
+        "en": "Network Security",
+        "az": "Şəbəkə Təhlükəsizliyi",
+        "ru": "Сетевая безопасность"
+    },
+    {
+        "en": "Internet of Things (IoT)",
+        "az": "Əşyaların İnterneti",
+        "ru": "Интернет вещей"
+    },
+    {
+        "en": "Virtualization",
+        "az": "Virtualizasiya",
+        "ru": "Виртуализация"
+    },
+    {
+        "en": "Assertiveness",
+        "az": "Qətiyyət",
+        "ru": "Напористость"
+    },
+    {
+        "en": "Quality management",
+        "az": "Keyfiyyət idarəetməsi",
+        "ru": "Управление качеством"
+    },
+    {
+        "en": "Project management",
+        "az": "Layihə idarəetməsi",
+        "ru": "Управление проектами"
+    },
+    {
+        "en": "Robotics",
+        "az": "Robotexnika",
+        "ru": "Робототехника"
+    },
+    {
+        "en": "Refactoring",
+        "az": "Refaktorinq",
+        "ru": "Рефакторинг"
+    },
+    {
+        "en": "Performance management",
+        "az": "Performans idarəetməsi",
+        "ru": "Управление производительностью"
+    },
+    {
+        "en": "Teamwork",
+        "az": "Komanda işi",
+        "ru": "Работа в команде"
+    },
+    {
+        "en": "Employee development and training",
+        "az": "İşçi inkişafı və təlimi",
+        "ru": "Развитие и обучение сотрудников"
+    },
+    {
+        "en": "Adaptability",
+        "az": "Adaptasiya",
+        "ru": "Адаптивность"
+    },
+    {
+        "en": "Office management",
+        "az": "Ofis idarəetməsi",
+        "ru": "Управление офисом"
+    },
+    {
+        "en": "Active listening",
+        "az": "Aktiv Dinləmə",
+        "ru": "Активное слушание"
+    },
+    {
+        "en": "Employee relations",
+        "az": "İşçi əlaqələri",
+        "ru": "Отношения с сотрудниками"
+    },
+    {
+        "en": "Employee compensation and benefits",
+        "az": "İşçi mükafatlandırılması və faydaları",
+        "ru": "Компенсация и льготы для сотрудников"
+    },
+    {
+        "en": "Risk management",
+        "az": "Risklərin idarə edilməsi",
+        "ru": "Управление рисками"
+    },
+    {
+        "en": "Logistics management",
+        "az": "Logistika idarəetməsi",
+        "ru": "Управление логистикой"
+    },
+    {
+        "en": "Risk management",
+        "az": "Risklərin İdarə Olunması",
+        "ru": "Управление рисками"
+    },
+    {
+        "en": "Curiosity",
+        "az": "Maraq",
+        "ru": "Любопытство"
+    },
+    {
+        "en": "Innovation",
+        "az": "İnnovasiya",
+        "ru": "Инновации"
+    },
+    {
+        "en": "Work ethic",
+        "az": "İş Əxlaqı",
+        "ru": "Трудовая этика"
+    },
+    {
+        "en": "Critical thinking",
+        "az": "Tənqidi düşüncə",
+        "ru": "Критическое мышление"
+    },
+    {
+        "en": "Object-Oriented Programming",
+        "az": "Obyekt Yönümlü Proqramlaşdırma",
+        "ru": "Объектно-ориентированное программирование"
+    },
+    {
+        "en": "Business Intelligence",
+        "az": "Biznes İntellekti",
+        "ru": "Бизнес-аналитика"
+    },
+    {
+        "en": "Humor",
+        "az": "Zarafat Bacarığı",
+        "ru": "Юмор"
+    },
+    {
+        "en": "Employee relations and communication",
+        "az": "İşçi əlaqələri və kommunikasiya",
+        "ru": "Отношения с сотрудниками и коммуникация"
+    },
+    {
+        "en": "Influence",
+        "az": "Təsir Göstərmə",
+        "ru": "Влияние"
+    },
+    {
+        "en": "Computer Vision",
+        "az": "Kompüter Görüntüsü",
+        "ru": "Компьютерное зрение"
+    },
+    {
+        "en": "Geographic Information Systems",
+        "az": "Coğrafi İnformasiya Sistemləri",
+        "ru": "Геоинформационные системы"
+    },
+    {
+        "en": "Algorithm Design",
+        "az": "Alqoritm Dizaynı",
+        "ru": "Разработка алгоритмов"
+    },
+    {
+        "en": "Coaching",
+        "az": "Kouçinq",
+        "ru": "Коучинг"
+    },
+    {
+        "en": "Artificial Intelligence",
+        "az": "Süni İntellekt",
+        "ru": "Искусственный интеллект"
+    },
+    {
+        "en": "Inventory management",
+        "az": "Anbar idarəetməsi",
+        "ru": "Управление запасами"
+    },
+    {
+        "en": "Computer Networks",
+        "az": "Kompüter Şəbəkələri",
+        "ru": "Компьютерные сети"
+    },
+    {
+        "en": "Cultural awareness",
+        "az": "Mədəniyyət Anlayışı",
+        "ru": "Культурная осведомленность"
+    },
+    {
+        "en": "Health and safety",
+        "az": "Sağlamlıq və təhlükəsizlik",
+        "ru": "Здоровье и безопасность"
+    },
+    {
+        "en": "Data Warehousing",
+        "az": "Verilənlər Anbarı",
+        "ru": "Хранилище данных"
+    },
+    {
+        "en": "Load Balancing",
+        "az": "Yük Balanslaşdırma",
+        "ru": "Балансировка нагрузки"
+    },
+    {
+        "en": "Containerization",
+        "az": "Konteynerləşdirmə",
+        "ru": "Контейнеризация"
+    },
+    {
+        "en": "Emotional intelligence",
+        "az": "Emosional Zəka",
+        "ru": "Эмоциональный интеллект"
+    },
+    {
+        "en": "Business Process Modeling",
+        "az": "Biznes Proseslərin Modelləşdirilməsi",
+        "ru": "Моделирование бизнес-процессов"
+    },
+    {
+        "en": "E-commerce Platforms",
+        "az": "E-ticarət Platformaları",
+        "ru": "Платформы электронной коммерции"
+    },
+    {
+        "en": "Humility",
+        "az": "Təvazökarlıq",
+        "ru": "Скромность"
+    },
+    {
+        "en": "Version Control",
+        "az": "Versiya Nəzarəti",
+        "ru": "Контроль версий"
+    },
+    {
+        "en": "Pair Programming",
+        "az": "Cütlük Proqramlaşdırması",
+        "ru": "Парное программирование"
+    },
+    {
+        "en": "Recruitment",
+        "az": "İşə qəbul",
+        "ru": "Набор персонала"
+    },
+    {
+        "en": "Behavior-Driven Development",
+        "az": "Davranış Yönümlü Tərtibat",
+        "ru": "Разработка через поведение"
+    },
+    {
+        "en": "Persuasion",
+        "az": "İnandırma",
+        "ru": "Убеждение"
+    },
+    {
+        "en": "Software Architecture",
+        "az": "Proqram Təminatı Arxitekturası",
+        "ru": "Архитектура программного обеспечения"
+    },
+    {
+        "en": "Information Retrieval",
+        "az": "Məlumat Çıxarışı",
+        "ru": "Информационный поиск"
+    },
+    {
+        "en": "Motivating others",
+        "az": "Başqalarını motivasiya etmək",
+        "ru": "Мотивация других"
+    },
+    {
+        "en": "DevOps",
+        "az": "DevOps",
+        "ru": "DevOps"
+    },
+    {
+        "en": "Financial reporting",
+        "az": "Maliyyə hesabatı",
+        "ru": "Финансовая отчетность"
+    },
+    {
+        "en": "Empathy",
+        "az": "Empatiya",
+        "ru": "Эмпатия"
+    },
+    {
+        "en": "Accountability",
+        "az": "Məsuliyyət",
+        "ru": "Ответственность"
+    },
+    {
+        "en": "Augmented Reality",
+        "az": "Artırılmış Reallıq",
+        "ru": "Дополненная реальность"
+    },
+    {
+        "en": "Stakeholder management",
+        "az": "Əlavə sahibkar idarəetməsi",
+        "ru": "Управление заинтересованными сторонами"
+    },
+    {
+        "en": "Big Data",
+        "az": "Böyük Verilənlər",
+        "ru": "Большие данные"
+    },
+    {
+        "en": "Visionary thinking",
+        "az": "Görüş sahibi olmaq",
+        "ru": "Видение"
+    },
+    {
+        "en": "Compensation and benefits",
+        "az": "Mükafatlandırma və faydalar",
+        "ru": "Компенсация и льготы"
+    },
+    {
+        "en": "Fault Tolerance",
+        "az": "Xəta Tolerantlığı",
+        "ru": "Отказоустойчивость"
+    },
+    {
+        "en": "Initiative",
+        "az": "İnisiativ",
+        "ru": "Инициативность"
+    },
+    {
+        "en": "Creativity",
+        "az": "Yaradıcılıq",
+        "ru": "Креативность"
+    },
+    {
+        "en": "Open-mindedness",
+        "az": "Açıqfikirlilik",
+        "ru": "Открытость"
+    },
+    {
+        "en": "Network Administration",
+        "az": "Şəbəkə İdarəetməsi",
+        "ru": "Сетевое администрирование"
+    },
+    {
+        "en": "Mentoring",
+        "az": "Mentorluq",
+        "ru": "Наставничество"
+    },
+    {
+        "en": "Multithreading",
+        "az": "Çoxaxınlı Proqramlaşdırma",
+        "ru": "Многопоточность"
+    },
+    {
+        "en": "Employee wellness",
+        "az": "İşçi sağlamlığı",
+        "ru": "Здоровье сотрудников"
+    },
+    {
+        "en": "Chiper",
+        "az": "Şifrələmə",
+        "ru": "Шифрование"
+    },
+    {
+        "en": "Flexibility",
+        "az": "Çeviklik",
+        "ru": "Гибкость"
+    },
+    {
+        "en": "Signal Processing",
+        "az": "Siqnal Emalı",
+        "ru": "Обработка сигналов"
+    },
+    {
+        "en": "Problem-solving",
+        "az": "Problem Həll Etmə",
+        "ru": "Решение проблем"
+    },
+    {
+        "en": "Ethical judgment",
+        "az": "Etik Mühakimə",
+        "ru": "Этическое суждение"
+    },
+    {
+        "en": "Continuous Integration",
+        "az": "Davamlı İnteqrasiya",
+        "ru": "Непрерывная интеграция"
+    },
+    {
+        "en": "Employee motivation",
+        "az": "İşçi motivasiyası",
+        "ru": "Мотивация сотрудников"
+    },
+    {
+        "en": "Employee engagement",
+        "az": "İşçi qatılımı",
+        "ru": "Привлечение сотрудников"
+    },
+    {
+        "en": "Data Structures",
+        "az": "Məlumat strukturları",
+        "ru": "Структуры данных"
+    },
+    {
+        "en": "Public speaking",
+        "az": "Ümumi Çıxış",
+        "ru": "Ораторское искусство"
+    },
+    {
+        "en": "Judgment",
+        "az": "Qərar vermə bacarığı",
+        "ru": "Суждение"
+    },
+    {
+        "en": "Cryptography",
+        "az": "Kriptografiya",
+        "ru": "Криптография"
+    },
+    {
+        "en": "Code Optimization",
+        "az": "Kod Optimizasiyası",
+        "ru": "Оптимизация кода"
+    },
+    {
+        "en": "Parallel Computing",
+        "az": "Paralel Hesablama",
+        "ru": "Параллельные вычисления"
+    },
+    {
+        "en": "Strategic planning",
+        "az": "Strateji planlaşdırma",
+        "ru": "Стратегическое планирование"
+    },
+    {
+        "en": "Marketing management",
+        "az": "Marketinq idarəetməsi",
+        "ru": "Управление маркетингом"
+    },
+    {
+        "en": "Employee benefits",
+        "az": "İşçi faydaları",
+        "ru": "Льготы для сотрудников"
+    },
+    {
+        "en": "Cloud Computing",
+        "az": "Bulud Hesablama",
+        "ru": "Облачные вычисления"
+    },
+    {
+        "en": "Work under pressure",
+        "az": "Təzyiq altında işləmək",
+        "ru": "Работа под давлением"
+    },
+    {
+        "en": "Employee recognition and rewards",
+        "az": "İşçi tanınması və mükafatları",
+        "ru": "Признание и награды для сотрудников"
+    },
+    {
+        "en": "Content Management Systems",
+        "az": "Məzmun İdarəetmə Sistemləri",
+        "ru": "Системы управления контентом"
+    },
+    {
+        "en": "Software Testing",
+        "az": "Proqram Təminatının Sınağı",
+        "ru": "Тестирование программного обеспечения"
+    },
+    {
+        "en": "Image Processing",
+        "az": "Şəkil Emalı",
+        "ru": "Обработка изображений"
+    },
+    {
+        "en": "Resilience",
+        "az": "Dayanma Gücü",
+        "ru": "Стойкость"
+    },
+    {
+        "en": "Asynchronous Programming",
+        "az": "Asinxron Proqramlaşdırma",
+        "ru": "Асинхронное программирование"
+    },
+    {
+        "en": "Cybersecurity",
+        "az": "Kiber Təhlükəsizlik",
+        "ru": "Кибербезопасность"
+    },
+    {
+        "en": "Learning agility",
+        "az": "Öyrənmə Çevikliyi",
+        "ru": "Агильность в обучении"
+    },
+    {
+        "en": "Web Development",
+        "az": "Veb Tərtibatı",
+        "ru": "Веб-разработка"
+    },
+    {
+        "en": "Statistical Analysis",
+        "az": "Statistik Analiz",
+        "ru": "Статистический анализ"
+    },
+    {
+        "en": "Collaboration",
+        "az": "Əməkdaşlıq",
+        "ru": "Сотрудничество"
+    },
+    {
+        "en": "Trustworthiness",
+        "az": "Etibarlılıq",
+        "ru": "Надежность"
+    },
+    {
+        "en": "API Development",
+        "az": "API Tərtibatı",
+        "ru": "Разработка API"
+    },
+    {
+        "en": "Hardware Design",
+        "az": "Aparat Dizaynı",
+        "ru": "Проектирование аппаратного обеспечения"
+    },
+    {
+        "en": "Debugging",
+        "az": "Xəta Axtarışı",
+        "ru": "Отладка"
+    },
+    {
+        "en": "Encryption",
+        "az": "Şifrələmə",
+        "ru": "Шифрование"
+    },
+    {
+        "en": "Microservices Architecture",
+        "az": "Mikroxidmətlər Arxitekturası",
+        "ru": "Архитектура микросервисов"
+    },
+    {
+        "en": "Memory Management",
+        "az": "Yaddaş İdarəetməsi",
+        "ru": "Управление памятью"
+    },
+    {
+        "en": "Data Visualization",
+        "az": "Verilənlərin Vizuallaşdırılması",
+        "ru": "Визуализация данных"
+    },
+    {
+        "en": "Data Analysis",
+        "az": "Verilənlərin Analizi",
+        "ru": "Анализ данных"
+    },
+    {
+        "en": "Distributed Systems",
+        "az": "Paylanmış Sistemlər",
+        "ru": "Распределенные системы"
+    },
+    {
+        "en": "System Architecture",
+        "az": "Sistem Arxitekturası",
+        "ru": "Системная архитектура"
+    },
+    {
+        "en": "Appointment scheduling",
+        "az": "Təyin olunmuş vaxt",
+        "ru": "Планирование встреч"
+    },
+    {
+        "en": "Embedded Systems",
+        "az": "Tətbiq Edilmiş Sistemlər",
+        "ru": "Встроенные системы"
+    },
+    {
+        "en": "Communication",
+        "az": "Ünsiyyət",
+        "ru": "Коммуникация"
+    },
+    {
+        "en": "Customer service",
+        "az": "Müştəri Xidməti",
+        "ru": "Обслуживание клиентов"
+    },
+    {
+        "en": "Performance Tuning",
+        "az": "Performans Tənzimlənməsi",
+        "ru": "Настройка производительности"
+    },
+    {
+        "en": "Disaster Recovery",
+        "az": "Fəlakətdən Bərpa",
+        "ru": "Аварийное восстановление"
+    },
+    {
+        "en": "Employee performance management",
+        "az": "İşçi performans idarəetməsi",
+        "ru": "Управление производительностью сотрудников"
+    },
+    {
+        "en": "Stress management",
+        "az": "Stressin idarə edilməsi",
+        "ru": "Управление стрессом"
+    },
+    {
+        "en": "Code Review",
+        "az": "Kod Nəzərdən Keçirmə",
+        "ru": "Проверка кода"
+    },
+    {
+        "en": "Database Management",
+        "az": "Verilənlər Bazasının İdarə Edilməsi",
+        "ru": "Управление базами данных"
+    },
+    {
+        "en": "Self-motivation",
+        "az": "Özünü motivasiya",
+        "ru": "Самомотивация"
+    },
+    {
+        "en": "Aspect-Oriented Programming",
+        "az": "Aspekt Yönümlü Proqramlaşdırma",
+        "ru": "Аспектно-ориентированное программирование"
+    },
+    {
+        "en": "Delegation",
+        "az": "Səlahiyyət vermə",
+        "ru": "Делегирование"
+    },
+    {
+        "en": "Reliability",
+        "az": "Etibarlılıq",
+        "ru": "Надежность"
+    },
+    {
+        "en": "Collaboration tools usage",
+        "az": "Əməkdaşlıq Alətlərindən İstifadə",
+        "ru": "Использование инструментов для сотрудничества"
+    },
+    {
+        "en": "Decision making",
+        "az": "Qərarvermə",
+        "ru": "Принятие решений"
+    },
+    {
+        "en": "Employee motivation and engagement",
+        "az": "İşçi motivasiyası və qatılımı",
+        "ru": "Мотивация и привлечение сотрудников"
+    },
+    {
+        "en": "Progressive Web Apps",
+        "az": "Proqressiv Veb Tətbiqləri",
+        "ru": "Прогрессивные веб-приложения"
+    },
+    {
+        "en": "Strategic thinking",
+        "az": "Strateji Düşüncə",
+        "ru": "Стратегическое мышление"
+    },
+    {
+        "en": "Customer relationship management",
+        "az": "Müştəri əlaqələri idarəetməsi",
+        "ru": "Управление отношениями с клиентами"
+    },
+    {
+        "en": "Serverless Computing",
+        "az": "Serversiz Hesablama",
+        "ru": "Бессерверные вычисления"
+    },
+    {
+        "en": "Edge Computing",
+        "az": "Kənar Hesablama",
+        "ru": "Периферийные вычисления"
+    },
+    {
+        "en": "Blockchain",
+        "az": "Blokçeyn",
+        "ru": "Блокчейн"
+    },
+    {
+        "en": "Data Mining",
+        "az": "Verilənlərin Çıxarılması",
+        "ru": "Интеллектуальный анализ данных"
+    },
+    {
+        "en": "Goal setting",
+        "az": "Məqsəd Müəyyən Etmə",
+        "ru": "Постановка целей"
+    },
+    {
+        "en": "Employee recognition",
+        "az": "İşçi tanınması",
+        "ru": "Признание сотрудников"
+    },
+    {
+        "en": "Scalability",
+        "az": "Miqyaslanabilirlik",
+        "ru": "Масштабируемость"
+    },
+    {
+        "en": "3D Modeling",
+        "az": "3D Modelləşdirmə",
+        "ru": "3D-моделирование"
+    },
+    {
+        "en": "Perseverance",
+        "az": "Səbatlılıq",
+        "ru": "Настойчивость"
+    },
+    {
+        "en": "Organizational skills",
+        "az": "Təşkilati Bacarıqlar",
+        "ru": "Организационные навыки"
+    },
+    {
+        "en": "Human resources management",
+        "az": "İnsan resursları idarəetməsi",
+        "ru": "Управление человеческими ресурсами"
+    },
+    {
+        "en": "Machine Learning",
+        "az": "Maşın Öyrənməsi",
+        "ru": "Машинное обучение"
+    },
+    {
+        "en": "Firmware Development",
+        "az": "Firmware Tərtibatı",
+        "ru": "Разработка прошивки"
+    },
+    {
+        "en": "Responsive Design",
+        "az": "Responsiv Dizayn",
+        "ru": "Адаптивный дизайн"
+    },
+    {
+        "en": "SEO",
+        "az": "SEO",
+        "ru": "SEO"
+    },
+    {
+        "en": "Self-confidence",
+        "az": "Özünə Güvən",
+        "ru": "Уверенность в себе"
+    }
+]
